@@ -44,7 +44,7 @@ __| || |__ \______   \__  |   |\______   |  \    /  \ __| || |__
 		"""
 		commands = """
 		# This library is for
-		# Encrypting/decrypting
+		# Encrypting/decrypting by password
 		# data
 		##### commands #####
 		############################################################################################################
