@@ -21,7 +21,7 @@
    		# Creators:
    		# Ahmed Hesham Salah
    		# Ahmed J. : AKA MT_Virus
-   		# All rights reserved to ArDoSeR Team
+   		# All Copyright (c) 2018 reserved to ArDoSeR Team
 
                           _| || |__ \______   \__  |   |\______   |  \    /  \ __| || |__
                           \   __   /  |     ___//   |   | |     ___|   \/\/   / \   __   /
